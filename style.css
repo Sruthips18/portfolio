@@ -1,14 +1,10 @@
-.personal-det li{
-    list-style: none;
-    line-height: 2.5;
-}
-.personal-details{
+.personal p{
     position: relative;
-    left: 300px;
-    top: -180px;
-    line-height: 2.5;
+     bottom: 170px;
+     text-align: right;
 }
 .btn-position button{
     position: relative;
-    bottom: 130px;
+    bottom: 170px;
 }
+
